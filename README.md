@@ -1,1 +1,1 @@
-# restaurants_tutorial
+# chinese_restaurant
